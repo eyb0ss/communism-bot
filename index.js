@@ -33,7 +33,7 @@ for(const file of commandFiles){
 }
 
 
-const token = 'NzM5MTM1OTA2MTQwOTEzNjY1.XyWD9A.iUxkII4EeOGhthLpurRYybYIXGw';
+const token = 'NzM5MTM1OTA2MTQwOTEzNjY1.XyWD9A.iWJLOW1ElOCjlF6EEuu4FnNnaR8';
 
 const PREFIX = 'k!';
 
